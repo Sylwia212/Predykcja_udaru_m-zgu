@@ -1,1 +1,1 @@
-# Predykcja_udaru_m-zgu
+# Predykcja_udaru_mózgu
