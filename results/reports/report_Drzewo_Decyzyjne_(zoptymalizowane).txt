@@ -1,0 +1,13 @@
+Raport klasyfikacji dla modelu: Drzewo Decyzyjne (zoptymalizowane)
+
+DOKŁADNOŚĆ (ACCURACY): 0.8738
+========================================
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.90      0.93       972
+           1       0.14      0.32      0.20        50
+
+    accuracy                           0.87      1022
+   macro avg       0.55      0.61      0.57      1022
+weighted avg       0.92      0.87      0.90      1022

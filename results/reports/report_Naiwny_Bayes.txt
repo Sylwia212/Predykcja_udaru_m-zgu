@@ -1,0 +1,13 @@
+Raport klasyfikacji dla modelu: Naiwny Bayes
+
+DOKŁADNOŚĆ (ACCURACY): 0.7524
+========================================
+
+              precision    recall  f1-score   support
+
+           0       0.98      0.76      0.85       972
+           1       0.12      0.66      0.21        50
+
+    accuracy                           0.75      1022
+   macro avg       0.55      0.71      0.53      1022
+weighted avg       0.94      0.75      0.82      1022

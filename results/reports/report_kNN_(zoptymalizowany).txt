@@ -1,0 +1,13 @@
+Raport klasyfikacji dla modelu: kNN (zoptymalizowany)
+
+DOKŁADNOŚĆ (ACCURACY): 0.8718
+========================================
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.90      0.93       972
+           1       0.13      0.28      0.18        50
+
+    accuracy                           0.87      1022
+   macro avg       0.54      0.59      0.55      1022
+weighted avg       0.92      0.87      0.89      1022

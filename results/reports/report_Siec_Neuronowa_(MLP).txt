@@ -1,0 +1,13 @@
+Raport klasyfikacji dla modelu: Siec Neuronowa (MLP)
+
+DOKŁADNOŚĆ (ACCURACY): 0.8894
+========================================
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.92      0.94       972
+           1       0.15      0.28      0.20        50
+
+    accuracy                           0.89      1022
+   macro avg       0.56      0.60      0.57      1022
+weighted avg       0.92      0.89      0.90      1022

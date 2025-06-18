@@ -1,0 +1,13 @@
+Raport klasyfikacji dla modelu: XGBoost (bazowy)
+
+DOKŁADNOŚĆ (ACCURACY): 0.9168
+========================================
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.95      0.96       972
+           1       0.18      0.20      0.19        50
+
+    accuracy                           0.92      1022
+   macro avg       0.57      0.58      0.57      1022
+weighted avg       0.92      0.92      0.92      1022
